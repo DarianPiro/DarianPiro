@@ -26,8 +26,12 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/html5-cf5533?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/react-5ed3f3?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/css3-254bdd?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/sass-c76494?style=for-the-badge&logo=sass&logoColor=white">
-<img src="https://img.shields.io/badge/bootstrap-7735f9?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/react-5ed3f3?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=next.js&logoColor=white">
+<img src="https://img.shields.io/badge/angular-dd0031?style=for-the-badge&logo=angular&logoColor=white">
+<img src="https://img.shields.io/badge/tailwindcss-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white">
+<img src="https://img.shields.io/badge/threejs-000000?style=for-the-badge&logo=three.js&logoColor=white">
+<img src="https://img.shields.io/badge/redux-764abc?style=for-the-badge&logo=redux&logoColor=white">
 </p>
 
 ### Backend development
@@ -38,19 +42,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/postgresql-31658c?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/prisma-0c3249?style=for-the-badge&logo=prisma&logoColor=white">
 <img src="https://img.shields.io/badge/mongodb-4caf50?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/graphql-e10098?style=for-the-badge&logo=graphql&logoColor=white">
 </p>
-
-### Others
-<p align-"left">
-<img src="https://img.shields.io/badge/jest-944058?style=for-the-badge&logo=jest&logoColor=white">
-<img src="https://img.shields.io/badge/cypress-1F2937?style=for-the-badge&logo=cypress&logoColor=white">
-<img src="https://img.shields.io/badge/github-e6e6e6?style=for-the-badge&logo=github&logoColor=black">
-<img src="https://img.shields.io/badge/postman-f76936?style=for-the-badge&logo=postman&logoColor=white">
-</p>
-
-### Stats
-[![GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DarianPiro&langs_count=7&theme=tokyonight)]()
-
-
-
-
