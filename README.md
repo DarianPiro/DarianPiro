@@ -1,5 +1,3 @@
-# Hi there 🙌🏼
-
 <!--
 
 Here are some ideas to get you started:
@@ -13,8 +11,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
 ### Languages
 <p align-"left">
 <img src="https://img.shields.io/badge/javascript-ffeb3b?style=for-the-badge&logo=javascript&logoColor=black">
