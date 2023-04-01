@@ -44,3 +44,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/mongodb-4caf50?style=for-the-badge&logo=mongodb&logoColor=white">
 <img src="https://img.shields.io/badge/graphql-e10098?style=for-the-badge&logo=graphql&logoColor=white">
 </p>
+
+[![Darians's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarianPiro)]
