@@ -45,4 +45,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/graphql-e10098?style=for-the-badge&logo=graphql&logoColor=white">
 </p>
 
-[Darians's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarianPiro)
+[![Darians's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarianPiro)]()
