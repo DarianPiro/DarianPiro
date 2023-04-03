@@ -50,9 +50,9 @@ Here are some ideas to get you started:
 
 ### Software 
 <p align-"left">
+<img src="https://img.shields.io/badge/figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/photoshop-31a8ff?style=for-the-badge&logo=adobe-photoshop&logoColor=white">
 <img src="https://img.shields.io/badge/illustrator-ff9a00?style=for-the-badge&logo=adobe-illustrator&logoColor=white">
-<img src="https://img.shields.io/badge/figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white">
 </p>
 
