@@ -58,4 +58,4 @@ Here are some ideas to get you started:
 
 
 ### Stats
-[![Darians's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarianPiro&theme=dark&show_icons=true)]()
+[![Darians's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarianPiro&theme=dark&show_icons=true&count_private=true)]()
