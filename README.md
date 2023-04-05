@@ -56,5 +56,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white">
 </p>
 
-### Stats
-[![Darians's GitHub stats](https://github-readme-stats.vercel.app/api?username=DarianPiro&random=&randomss524272&theme=dark&show_icons=true&hide=stars&count_private=true)]()
+
