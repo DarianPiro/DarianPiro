@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/darian-pirowhedayati/">
     <img src="https://img.shields.io/badge/linkedin-Darian_Pirowhedayati-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:strayvagrant@googlemail.com">
+  <a href="mailto:d.pirowhedayati@googlemail.com">
     <img src="https://img.shields.io/badge/email-contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/DarianPiro">
@@ -114,5 +114,5 @@
 ---
 
 <p align="center">
-  <em>Code, sound, visuals, objects, and systems — built with care.</em>
+  <em>Code, sound, visuals, objects, and systems - built with care.</em>
 </p>
