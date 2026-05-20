@@ -15,9 +15,6 @@
   <a href="mailto:d.pirowhedayati@googlemail.com">
     <img src="https://img.shields.io/badge/email-contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/DarianPiro">
-    <img src="https://img.shields.io/badge/github-DarianPiro-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </p>
 
 ---
